@@ -100,3 +100,5 @@ func sumArithmeticProgression(start: Int, step: Int, n: Int) -> Int {
 let kkkkk = sumArithmeticProgression(start: 1, step: 2, n: 5)
 
 
+//ddas
+
